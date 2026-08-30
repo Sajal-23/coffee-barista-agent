@@ -326,8 +326,8 @@ The purpose of this repository is to document the **architecture, implementation
 ---
 
 ## About
-
-**Sajal Sharma**
-Enterprise & Digital Transformation Advisor
+Sajal Sharma Enterprise & Digital Transformation Advisor
 
 AI & Cloud Strategy | System & Solution Architecture | Program & Portfolio Leadership | Project Recovery
+
+**Sugmsoft Digital**
