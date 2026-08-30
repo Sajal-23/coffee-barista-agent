@@ -331,5 +331,3 @@ The purpose of this repository is to document the **architecture, implementation
 Enterprise & Digital Transformation Advisor
 
 AI & Cloud Strategy | System & Solution Architecture | Program & Portfolio Leadership | Project Recovery
-
-**Sugmsoft Digital**
